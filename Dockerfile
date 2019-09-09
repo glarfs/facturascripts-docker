@@ -1,4 +1,4 @@
-FROM php:7.1.1-apache
+FROM php:7.2-apache
 
 COPY facturascripts.sh /facturascripts.sh
 
